@@ -12,9 +12,9 @@ I use the EIA API to get February 2025 monthly electricity generation data. I al
 
 First I fetch about 5000 records from EIA API. Then I clean out the junk data like zero generation and summary records. After that I group everything by plant and merge it with the CSV database. The program asks you if you want to filter by specific states or regions before processing. Finally I calculate capacity factors and send batches to DeepSeek for analysis.
 
-## 🎯 Extra Credit Feature: Geographic Filtering
+## Geographic Filtering
 
-The program now lets you choose what to analyze:
+The program lets you choose what to analyze:
 - **All states** - Process everything (1100+ plants)
 - **Specific states** - Enter state codes like "CA, TX, NY" 
 - **Census regions** - Pick Northeast, Midwest, South, or West
