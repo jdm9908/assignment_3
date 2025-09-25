@@ -1,0 +1,62 @@
+[
+  {
+    "period": "2025-02",
+    "plantCode": 3,
+    "plantName": "Barry",
+    "operatorName": "Alabama Power Co",
+    "operatorId": 195,
+    "stateDescription": "Alabama",
+    "countyDescription": "Mobile",
+    "fuelTypeDescription": "Coal",
+    "primeMover": "ST",
+    "generation-megawatthours": 1285432.0
+  },
+  {
+    "period": "2025-02",
+    "plantCode": 4,
+    "plantName": "Widows Creek",
+    "operatorName": "Tennessee Valley Authority",
+    "operatorId": 6455,
+    "stateDescription": "Alabama",
+    "countyDescription": "Jackson",
+    "fuelTypeDescription": "Coal",
+    "primeMover": "ST",
+    "generation-megawatthours": 0.0
+  },
+  {
+    "period": "2025-02",
+    "plantCode": 6,
+    "plantName": "Plant Gorgas",
+    "operatorName": "Alabama Power Co",
+    "operatorId": 195,
+    "stateDescription": "Alabama",
+    "countyDescription": "Walker",
+    "fuelTypeDescription": "Coal",
+    "primeMover": "ST",
+    "generation-megawatthours": 892156.0
+  },
+  {
+    "period": "2025-02",
+    "plantCode": 8,
+    "plantName": "Gadsden",
+    "operatorName": "Alabama Power Co",
+    "operatorId": 195,
+    "stateDescription": "Alabama",
+    "countyDescription": "Etowah",
+    "fuelTypeDescription": "Natural Gas",
+    "primeMover": "GT",
+    "generation-megawatthours": 45232.0
+  },
+  {
+    "period": "2025-02",
+    "plantCode": 10570,
+    "plantName": "Browns Ferry",
+    "operatorName": "Tennessee Valley Authority",
+    "operatorId": 6455,
+    "stateDescription": "Alabama",
+    "countyDescription": "Limestone",
+    "fuelTypeDescription": "Nuclear",
+    "primeMover": "ST",
+    "generation-megawatthours": 2847395.0
+  }
+]
